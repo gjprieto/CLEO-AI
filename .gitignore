@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/Alicazum.CLEO-AI.App/appsettings.Development.json
+/src/Alicazum.CLEO-AI.CrewApi/appsettings.Development.json
+/src/Alicazum.CLEO-AI.KnowledgeBaseApi/appsettings.Development.json
